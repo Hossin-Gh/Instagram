@@ -1,4 +1,4 @@
-# flutter_application_1
+# Instagram sample app
 
 A new Flutter project.
 
